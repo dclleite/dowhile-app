@@ -42,6 +42,7 @@ export function Button({
       </>
     )
   }
+  
   return (
     <TouchableOpacity
       style={[styles.button, { backgroundColor }]}
