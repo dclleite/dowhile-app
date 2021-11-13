@@ -27,6 +27,7 @@ export function MessageList(){
       <Message data={message} />
       <Message data={message} />
       <Message data={message} />
+      <Message data={message} />
 
     </ScrollView>
   );
